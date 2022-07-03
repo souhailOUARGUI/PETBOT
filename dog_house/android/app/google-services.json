@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130988960531",
+    "project_id": "dog-house-f1317",
+    "storage_bucket": "dog-house-f1317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130988960531:android:20db149af08467d82d88e6",
+        "android_client_info": {
+          "package_name": "com.example.dog_house"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130988960531-ss6llmvesdojlmhtc2rk9tc1vflth75l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDqxx2swJ7U0cMYZUS0QQ4fZSsGwG4QOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130988960531-ss6llmvesdojlmhtc2rk9tc1vflth75l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
